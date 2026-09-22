@@ -19,8 +19,8 @@ PitchPulse is a feature-rich Android sports application designed to deliver real
 ## 📹 Video Presentation Showcase
 
 Watch video on YouTube:
-[![PitchPulse Presentation Showcase]https://youtu.be/GVMlWgndA64
-Link: https://youtu.be/GVMlWgndA64
+[![PitchPulse Presentation Showcase](https://youtu.be/GVMlWgndA64)
+[Link:](https://youtu.be/GVMlWgndA64)
 
 ## 🎨 Design & Architecture
 
@@ -47,6 +47,5 @@ Below are low-fidelity wireframes detailing the 12 core screen destinations:
 
 ## ⚙️ Build & Setup Instructions
 
-1. Clone the Repository:
-   bash
-   git clone
+[git clone](https://github.com/ST10458001/pitchpulse_part2/tree/main) 
+  
